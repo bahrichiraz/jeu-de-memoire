@@ -24,8 +24,4 @@ Le but du jeu est simple : retrouver les paires de cartes qui représentent les 
 - Un navigateur moderne (comme Google Chrome ou Firefox).
 - Le jeu est entièrement fait avec **HTML**, **CSS**, et **JavaScript**.
 
-## Installation
 
-1. **Clonez ce dépôt sur votre ordinateur** :
-   ```bash
-   git clone https://github.com/raniasouissi/jeu-de-memoire.git
